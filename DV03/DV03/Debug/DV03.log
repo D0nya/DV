@@ -1,0 +1,3 @@
+﻿  DV03.cpp
+c:\users\asus\desktop\dv\labs\dv03\dv03\dv03.cpp(116): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  DV03.vcxproj -> C:\Users\Asus\Desktop\DV\labs\DV03\Debug\DV03.exe
