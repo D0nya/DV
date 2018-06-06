@@ -1,0 +1,5 @@
+﻿  DV06.cpp
+c:\users\asus\desktop\dv\labs\dv06\dv06\dv06.cpp(56): warning C4101: 'b': unreferenced local variable
+c:\users\asus\desktop\dv\labs\dv06\dv06\dv06.cpp(56): warning C4101: 'g': unreferenced local variable
+c:\users\asus\desktop\dv\labs\dv06\dv06\dv06.cpp(56): warning C4101: 'r': unreferenced local variable
+  DV06.vcxproj -> C:\Users\Asus\Desktop\DV\labs\DV06\Debug\DV06.exe
